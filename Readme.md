@@ -67,10 +67,10 @@ New Columns Created in Excel:
 - Dashboard Theme Colors (Hex Codes)
 - README.md – Project summary and explanation
 
-                                                                                  --Abhishek Kumar
-
 ## How to Use
 
 1. Open the Excel file
 2. Use the slicers to filter by Month and Day
 3. Explore the dashboard to view dynamic sales insights
+
+                                                                              --Abhishek Kumar
